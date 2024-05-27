@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JK_Fires/static/css/main.a86361c0.css",
+    "main.js": "/JK_Fires/static/js/main.65c50603.js",
+    "static/js/453.17f1a3c3.chunk.js": "/JK_Fires/static/js/453.17f1a3c3.chunk.js",
+    "index.html": "/JK_Fires/index.html",
+    "main.a86361c0.css.map": "/JK_Fires/static/css/main.a86361c0.css.map",
+    "main.65c50603.js.map": "/JK_Fires/static/js/main.65c50603.js.map",
+    "453.17f1a3c3.chunk.js.map": "/JK_Fires/static/js/453.17f1a3c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86361c0.css",
+    "static/js/main.65c50603.js"
+  ]
+}
