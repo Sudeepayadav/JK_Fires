@@ -17,7 +17,7 @@ function Header() {
       <LinkContainer to = '/'>
             <Navbar.Brand href="/">
         <h3 className="company">
-          <img className="logo" src="images/gripfire.svg" /> JK Fire & Security
+          <img className="logo" src="./images/gripfire.svg" /> JK Fire & Security
           Systems
         </h3>
         </Navbar.Brand>
